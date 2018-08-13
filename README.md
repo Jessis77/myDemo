@@ -1,2 +1,2 @@
-# 扫雷
+# myDemo
 a javascript project
